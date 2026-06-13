@@ -1,4 +1,4 @@
-# 🚗 CarHub — Self Drive Car Rental System
+# 🚗 DjCarHub — Self Drive Car Rental System
 
 ## 📌 Overview
 
@@ -116,4 +116,4 @@ http://localhost:8080/api
 
 ## 👨‍💻 Author
 
-Venkatesh
+Venkatesh Rudru
